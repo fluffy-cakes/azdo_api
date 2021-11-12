@@ -6,6 +6,8 @@ Azure DevOps has some pretty useful APIs, but it doesn't have everything I want.
 
 Even though it showed me how to find these APIs it didn't show me all which was possible. I have to thank a colleague for setting me on this path, and thus I have more added tricks which can help you out even more, so read on...
 
+![](img/canhaz.jpg)
+
 
 ### Theoretical Use Case
 
