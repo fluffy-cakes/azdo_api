@@ -20,7 +20,7 @@ As you can see from this link above, we only have the option to do basic Environ
 
 ![](img/README_20211112133200.png)
 
-What we want to do is immeidately get into **Developer Mode** by pressing `F12` on Google Chrome (or whatever button your browser requires of you) to bring up the console, and click on `Network` at the top.
+What we want to do is immediately get into **Developer Mode** by pressing `F12` on Google Chrome (or whatever button your browser requires of you) to bring up the console, and click on `Network` at the top.
 
 ![](img/README_20211112133537.png)
 
